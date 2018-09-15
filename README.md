@@ -1,2 +1,2 @@
 # Machine-Learning
-This contains some learning level as well as some advance level projects done using machine learning
+This contains the analysis of IPL matches done using some python libraries and data visualisation in python
